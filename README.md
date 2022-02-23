@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **troubleshooting help, or even about my WorldGenerator**
 
-- 📫 How to reach me **chillaaron21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
